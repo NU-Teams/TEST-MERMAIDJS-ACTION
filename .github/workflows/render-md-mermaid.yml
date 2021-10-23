@@ -35,7 +35,7 @@ jobs:
 
       - name: show changes
         run: |
-          git add */.*
+          git add .
           git status
 
       - name: Commit files
