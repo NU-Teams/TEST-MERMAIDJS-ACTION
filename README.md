@@ -10,7 +10,7 @@ flowchart LR
     StoP --> Start
     Hello --> GoodBye
     GoodBye --> Hello
-    A --> B
+    A --> C
     
 ```
 
