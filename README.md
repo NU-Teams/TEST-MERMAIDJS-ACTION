@@ -6,8 +6,8 @@
 
 ```mermaid
 flowchart LR
-    Start --> Stop
-    Stop --> Start
+    Start --> StoP
+    StoP --> Start
     
 ```
 
