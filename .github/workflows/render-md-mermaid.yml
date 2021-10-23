@@ -1,6 +1,8 @@
 name: render-md-mermaid
 
 on: push
+  branches:
+    -main
 
 jobs:
   render-md-mermaid:
