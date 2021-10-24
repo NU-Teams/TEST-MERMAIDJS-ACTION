@@ -14,7 +14,7 @@ graph TD
 
 ```mermaid
 graph TD
-    A[Christmas] -->|Get money 2| B(Go shopping)
+    A[Christmas] -->|Get Money 2| B(Go shopping)
     B --> C{Let me think}
     C -->|One| D[Laptop]
     C -->|Two| E[iPhone]
